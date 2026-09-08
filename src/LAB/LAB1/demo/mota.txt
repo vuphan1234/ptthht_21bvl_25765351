@@ -1,0 +1,1 @@
+dùng để test chức năng xóa folder
