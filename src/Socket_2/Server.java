@@ -36,4 +36,10 @@ public class Server {
 			e.printStackTrace();
 		}
 	}
+
+	private static Object handleClient(Socket clientSocket) {
+		// TODO Auto-generated method stub
+		System.out.println("xin chao");
+		return null;
+	}
 }
